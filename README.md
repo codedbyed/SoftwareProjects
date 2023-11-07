@@ -1,1 +1,1 @@
-# Software Exercises
+# Pokedex
